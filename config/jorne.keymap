@@ -84,9 +84,9 @@
 //       | ADJ   |     |     |     |     | DEL |   |     |     |     |     |     |     |
 //                           |     |     |     |   |     |     |     |
                         bindings = <
-   &none  &none        &none    &none     &kp UP    &none      &kp BSPC        &none   &none   &none   &kp C_VOL_DN   &kp C_VOL_UP   &kp C_MUTE   &none
-          &kp CAPS     &none    &kp LEFT  &kp DOWN  &kp RIGHT  &kp RET         &none   &none   &none   &kp C_BRI_DN   &kp C_BRI_UP   &none
-          &kp ADJ  &none    &none     &none     &none      &kp DEL         &none   &none   &none   &none          &none          &none
+   &none  &none         &none    &none     &kp UP    &none      &kp BSPC        &none   &none   &none   &kp C_VOL_DN   &kp C_VOL_UP   &kp C_MUTE   &none
+          &kp CAPS      &none    &kp LEFT  &kp DOWN  &kp RIGHT  &kp RET         &none   &none   &none   &kp C_BRI_DN   &kp C_BRI_UP   &none
+          &lt ADJ SPACE &none    &none     &none     &none      &kp DEL         &none   &none   &none   &none          &none          &none
                                           &none     &none      &none           &none   &none   &none
                         >;
                 };
